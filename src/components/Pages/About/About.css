@@ -1,0 +1,19 @@
+.about{
+    grid-area: main;
+    font-size: x-large;
+    text-align: center;
+}
+
+.heading{
+    font-size: xx-large;
+}
+
+ul.twocolumns {
+    display: inline-block;
+}
+
+ul.twocolumns li {
+    float: left;
+    list-style: outside none none;
+    width: 16%;
+}
