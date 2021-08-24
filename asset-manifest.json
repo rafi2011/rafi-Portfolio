@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rafi-portfolio/static/css/main.5675fb79.chunk.css",
+    "main.js": "/rafi-portfolio/static/js/main.a42ef913.chunk.js",
+    "main.js.map": "/rafi-portfolio/static/js/main.a42ef913.chunk.js.map",
+    "runtime-main.js": "/rafi-portfolio/static/js/runtime-main.460ca4f0.js",
+    "runtime-main.js.map": "/rafi-portfolio/static/js/runtime-main.460ca4f0.js.map",
+    "static/css/2.d590932c.chunk.css": "/rafi-portfolio/static/css/2.d590932c.chunk.css",
+    "static/js/2.a29333b9.chunk.js": "/rafi-portfolio/static/js/2.a29333b9.chunk.js",
+    "static/js/2.a29333b9.chunk.js.map": "/rafi-portfolio/static/js/2.a29333b9.chunk.js.map",
+    "static/js/3.1d959fd1.chunk.js": "/rafi-portfolio/static/js/3.1d959fd1.chunk.js",
+    "static/js/3.1d959fd1.chunk.js.map": "/rafi-portfolio/static/js/3.1d959fd1.chunk.js.map",
+    "index.html": "/rafi-portfolio/index.html",
+    "static/css/2.d590932c.chunk.css.map": "/rafi-portfolio/static/css/2.d590932c.chunk.css.map",
+    "static/css/main.5675fb79.chunk.css.map": "/rafi-portfolio/static/css/main.5675fb79.chunk.css.map",
+    "static/js/2.a29333b9.chunk.js.LICENSE.txt": "/rafi-portfolio/static/js/2.a29333b9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/rafi-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/rafi-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460ca4f0.js",
+    "static/css/2.d590932c.chunk.css",
+    "static/js/2.a29333b9.chunk.js",
+    "static/css/main.5675fb79.chunk.css",
+    "static/js/main.a42ef913.chunk.js"
+  ]
+}
