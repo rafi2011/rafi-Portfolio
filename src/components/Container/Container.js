@@ -6,10 +6,10 @@ import Navigation from '../Navigation/Navigation';
 
 import myData from '../../myData';
 
-import Resume from '../pages/Resume';
-import About from '../pages/About/About';
-import Portfolio from '../pages/Portfolio';
-import Contact from '../pages/Contact/Contact';
+import Resume from '../Pages/Resume';
+import About from '../Pages/About/About';
+import Portfolio from '../Pages/Portfolio';
+import Contact from '../Pages/Contact/Contact';
 
 import "./Container.css";
 
